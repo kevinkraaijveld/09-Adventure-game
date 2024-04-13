@@ -33,3 +33,6 @@ Wie ben ik moet aan de volgende technische eisen voldoen:
 ### Bonus
 * Gebruik een onload event om iets voor elkaar te krijgen op het moment dat de spelpagina helemaal is geladen (denk aan een animatie starten of een geluid afspelen);
 * Maak een minigame om een aanval te ontwijken (je kunt met verschillende toetsen heen en weer bewegen);
+
+### Dekijk opdracht
+[Adventure game](https://www.kevii.nl/opdrachten/09-adventuregame/)
