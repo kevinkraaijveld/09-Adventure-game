@@ -35,4 +35,4 @@ Wie ben ik moet aan de volgende technische eisen voldoen:
 * Maak een minigame om een aanval te ontwijken (je kunt met verschillende toetsen heen en weer bewegen);
 
 ### Bekijk opdracht
-[Adventure game](https://www.kevii.nl/opdrachten/09-adventuregame/)
+[Adventure game](https://kevin.webprofit.site/opdrachten/09-adventuregame/)
